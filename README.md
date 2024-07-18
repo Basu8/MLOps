@@ -1,0 +1,2 @@
+# MLOps
+My seminar tropic 
