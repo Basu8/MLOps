@@ -1,0 +1,20 @@
+# Python version
+python==3.10.0
+
+# Deep Learning Libraries
+tensorflow==2.15.0
+keras==2.15.0
+
+# Image and Video Processing
+opencv-python==4.10.0
+Pillow==10.4.0
+
+# Numerical Computation
+numpy==1.26.4
+
+# Web Application Interface
+gradio==4.37.1
+gradio_client==1.0.2
+
+# Standard Library Collection (version matches Python version)
+collections==3.10.0
